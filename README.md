@@ -1,5 +1,10 @@
-## Luke Son - Software Engineer 👋
+## Luke Son - Software Engineer 
 
+<!--[Resume](https://your-resume-link.com)-->
+
+Welcome to my GitHub!
+I'm Luke Son, currently pursuing a Bachelor's in Computer Science at the Arizona State University.
+With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges. My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
 <!--
 **asianbike/asianbike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
