@@ -2,8 +2,7 @@
 
 <!--[Resume](https://your-resume-link.com)-->
 
-#### Welcome to my GitHub!
-
+Welcome to my GitHub!<br>
 I'm Luke Son, currently pursuing a Bachelor's in Computer Science at the Arizona State University.  
 With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges.  
 My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
