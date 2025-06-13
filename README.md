@@ -60,7 +60,7 @@ I focus on writing clean, scalable code and exploring how systems work under the
 ## 📫 Contact
 
 - 📧 Email: lukesson1112@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/luke-son-98a425345/)  
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/luke-son-98a425345/)  
 - 🌐 Portfolio: coming soon  
 
 ---
