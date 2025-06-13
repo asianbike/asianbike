@@ -64,6 +64,7 @@ I focus on writing clean, scalable code and exploring how systems work under the
 - 🌐 Portfolio: coming soon  
 
 ---
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=asianbike&show_icons=true&theme=default)
 
 _“Consistency beats intensity.”_  
 Thanks for visiting!
