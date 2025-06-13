@@ -1,5 +1,3 @@
-## Luke Son - Software Engineer 
-
 <!--[Resume](https://your-resume-link.com)-->
 
 # 👋 Hi, I'm Luke Son – Aspiring Software Engineer 
@@ -14,11 +12,11 @@ I focus on writing clean, scalable code and exploring how systems work under the
 ## 🚀 What I'm Working On
 
 - **AI-Powered Resume & Job Matcher**  
-  Built with `Flask` and `Groq API (LLaMA3)`.  
-  Compares PDF resumes with job descriptions to generate matching insights.  
-  Includes Jinja2 templating, Bootstrap UI, and is deployed on Render.  
-  ➤ *Deployed & documented in English.*  
-  ➤ [View Project](https://resumeaianalyzer.onrender.com)
+  - Built with `Flask` and `Groq API (LLaMA3)`.  
+  - Compares PDF resumes with job descriptions to generate matching insights.  
+  - Includes Jinja2 templating, Bootstrap UI, and is deployed on Render.  
+  - *Deployed & documented in English.*  
+  - [View Project](https://resumeaianalyzer.onrender.com)
 
 - **Upcoming Projects (Summer 2025)**  
   - Async Image Processing App (FastAPI + Celery + Redis)  
